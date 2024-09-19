@@ -12,8 +12,8 @@ const app = {
   webhook_verification_required: false,
   internal: false,
   connection: {
-    client_id: "5d5e78b5-300c-45f3-a735-a7dbec98a869",
-    client_secret: "cef9d282-e116-411a-b77e-eb5e93120f70",
+    client_id: "YOUR HUBSPOT CLIENT ID",
+    client_secret: "YOUR HUBSPOT CLIENT SECRET",
     redirect_uri: "https://proxy.quickwork.co.in/hubspot/code",
     authorization: {
       type: "oauth_2",
